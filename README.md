@@ -1,4 +1,4 @@
-# Agar.io-HTML5-
+# Agario-HTML5
 Agar.io clone written with Socket.IO and HTML5 canvas 
 A simple but powerful Agar.IO built with socket.IO and HTML5 canvas on top of NodeJS.
 
